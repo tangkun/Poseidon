@@ -8,7 +8,7 @@
   <name>Poseidon Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
-  <properties>
+  <properties> 
 		<serverIP>127.0.0.1:8081</serverIP>
 		<springVersion>4.0.5.RELEASE</springVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
