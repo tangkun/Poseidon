@@ -7,6 +7,7 @@ public class XX {
     public static void main(String[] args) throws SecurityException, ClassNotFoundException {
         /*  Method[] m = XX.class.getClassLoader().loadClass("com.poseidon.view.DemoDataGrid")
             .getMethods();*/
+        AspectJProxyUtils
         String ss = "";
         Field[] f = XX.class.getClassLoader().loadClass("com.poseidon.view.DemoView")
             .getDeclaredFields();
