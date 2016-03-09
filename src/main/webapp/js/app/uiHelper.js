@@ -32,7 +32,6 @@
  * 11、tree                     options
  * 12、treeAutomatic            options                   树自动定位
  * 
- *  
  */
 
 (function($){ 
